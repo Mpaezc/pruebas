@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="882e5276-5705-4bcd-b2ad-ed252357ace4" name="Changes" comment="" />
+    <list default="true" id="882e5276-5705-4bcd-b2ad-ed252357ace4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/prueba1.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +43,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "last_opened_file_path": "C:/Users/GMIT/IdeaProjects/Proyecto/src/test/resources/drivers"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Jesus Bohorquez/Desktop/ProyectoScreen/pruebas"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,8 +62,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669257862778</updated>
+      <workItem from="1669262563315" duration="1427000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
